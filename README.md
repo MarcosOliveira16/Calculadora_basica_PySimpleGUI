@@ -1,4 +1,4 @@
-# Calculadora_basica_PySimpleGUI
+# Calculadora basica PySimpleGUI
 Projeto de calculadora básica utilizando da biblioteca do PySimplieGUI e vídeos do youtube.
 
 
